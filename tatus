@@ -1,0 +1,153 @@
+[33m81ecb32[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Update google form link
+[33ma4b4cf9[m Update README to remove non-working setup message
+[33mab4ae0b[m Revise setup instructions and add notes for guidance
+[33mf12d869[m Merge pull request #26 from MichiganDataScienceTeam/shivachandran04-patch-1
+[33mae24d3f[m Update README for W26 and new office hours
+[33mb8130e0[m Update README with setup issue notice and link
+[33mce7a330[m Update checkpoint0.ipynb with comment on tags
+[33m83708cd[m Fix markdown formatting in checkpoint1.ipynb
+[33m001741a[m Update checkpoint1.ipynb markdown header
+[33mbeefa63[m Update checkpoint 1 header with additional instructions
+[33m253de44[m Update title from WN25 to FA25
+[33mb2bbf2f[m Update README.md
+[33m5551120[m Update README.md
+[33m8b068c9[m Update README.md
+[33m5df86cf[m Update README.md
+[33mc9c2ed6[m Update README.md
+[33m5bb1a82[m Update README.md
+[33m83022fc[m Update README.md
+[33md605535[m Update checkpoint0.ipynb
+[33m6f77e86[m Update README.md
+[33med0795a[m Merge pull request #21 from MichiganDataScienceTeam/WN25
+[33m4f04732[m Update README.md
+[33m2d8b1cf[m Update README.md
+[33m0823c9e[m Update README.md
+[33md409d41[m (fix) Checkpoint0
+[33m923e98d[m Update checkpoint0.ipynb
+[33m2a60da3[m add comment tags
+[33m5728660[m Update README.md
+[33mcfcf47d[m Update README.md
+[33mb2b7973[m Update README.md
+[33m9c1635c[m Update README.md
+[33m12c53f9[m Update README.md
+[33m5478eae[m Update README.md
+[33ma089601[m Merge remote-tracking branch 'refs/remotes/origin/main'
+[33m424df66[m remove version requirements
+[33me96f8df[m Update README.md
+[33m148cbea[m Merge pull request #19 from MichiganDataScienceTeam/18-titanic-optional-challenge-has-syntax-error
+[33ma5022a4[m fixed fstrings, added requirements.txt
+[33m95a0bc3[m Update README.md
+[33m7e082ec[m Merge pull request #16 from dennisfarmer/main
+[33meac98af[m Merge pull request #17 from MichiganDataScienceTeam/Weile-Zheng-patch-1
+[33me8b2ae6[m Update README.md
+[33ma2b74c5[m added Callable to type hinting
+[33m839b5d4[m minor formatting of titanic.ipynb, improved type hinting tutorial
+[33ma02fc8c[m Remove skorch notes
+[33m2ba7d8c[m Merge pull request #15 from dennisfarmer/main
+[33m2ef69a9[m Merge branch 'main' into main
+[33md8c210b[m (doc) clear output
+[33m639e00c[m (doc) cleared output
+[33md724cf6[m Reduce starter code
+[33mdb9fa78[m Relax requirements
+[33m2d93a50[m Update README
+[33m47bce91[m type hinting typo
+[33m91b0a1d[m added type hinting and DL skorch notes
+[33m84072f9[m Merge pull request #14 from MichiganDataScienceTeam/dev-FA24
+[33md090e2b[m (doc) Modify documentation
+[33m06cf4a1[m (bug) Fix minor bug
+[33maab26f2[m (bug) Fix minor bugs
+[33m7c0da48[m (doc) minor documentation update
+[33mfdef8ee[m fixed titanic image url
+[33m481b589[m added more DL starter code
+[33mf922501[m (refac) minor restructuring
+[33m348dad2[m Add RvF)
+[33m215c249[m Remove RvF
+[33me3e0f96[m (doc) update Readme
+[33m5bde474[m (doc) update Readme
+[33m74742ca[m (doc) update Readme
+[33m98f020a[m Merge remote-tracking branch 'refs/remotes/origin/dev-FN24' into dev-FN24
+[33m7f84d48[m (chore) Reorganize requirements.txt
+[33m17429fe[m Update README.md
+[33mdb523f3[m Update README.md
+[33meaad98b[m (chores) clean repo
+[33m5aed8d5[m Update README.md
+[33mb1263da[m (doc) reorganize files and update readme
+[33me1efe4d[m Merge pull request #13 from MichiganDataScienceTeam/Challenge-RvF
+[33ma7af398[m Merge pull request #12 from MichiganDataScienceTeam/Challenge-DL
+[33md1dbd84[m Merge pull request #11 from MichiganDataScienceTeam/Challenge-ML
+[33m66337b5[m remove gitignore.save
+[33ma7c52af[m fix parameter in model training
+[33m392be37[m update requirements
+[33mbf749da[m remove answers
+[33m0d52c6f[m added starter code and resources
+[33m1065fe6[m added starter code and resources
+[33m06a88e3[m added starter code and resources
+[33m1683d97[m added titanic deep learning challenge
+[33m3563646[m (documentation) basic grammar fix
+[33m327aa9c[m (documentation) fix basic grammar and basic rewording
+[33m83a9ea0[m add comments in data loading section
+[33m5b1e34e[m initial commit, need to test more, fix TODOs, and delete answers
+[33m3eb41f3[m (feat) Add more guided walkthrough
+[33mf530762[m (style) Fix wording
+[33m736e7f6[m (style) Reorganized file structure
+[33m4f0c32a[m (feat) update ML challenge
+[33mdd55b57[m (feat) ML Challenge Initial Setup
+[33mf6e756b[m (refactor) Update folder layout
+[33mfc3e143[m Update README.md
+[33mfe1a3cc[m Update README.md
+[33m7ee0ab1[m Merge pull request #6 from MichiganDataScienceTeam/Weile-Zheng-patch-1
+[33m770e8c7[m Update README.md
+[33m7c62171[m Update checkpoint1.ipynb
+[33mb79043e[m Update requirements.txt
+[33mae7448f[m Add official docs section (README) (#4)
+[33me895364[m Replace Piazza link with ed link
+[33mac989de[m Update README.md
+[33m5d12b97[m README update for WN24
+[33mdbfeca5[m Reword checkpoint1 questions
+[33m416a4f6[m Merge pull request #3 from MichiganDataScienceTeam/updates
+[33m419cdc0[m Fixed grammatical issues
+[33me811738[m Added project sign-up form
+[33m16481ef[m Use default Python .gitignore
+[33m49708fc[m Remove Pandas plotting questions from the checkpoint
+[33m65227ad[m Add Piazza link
+[33mf78bb5b[m Relax requirements
+[33m65684d2[m Update README
+[33m12545c5[m Copy over AnatomyofMatplotlib
+[33m8fd7f1e[m Move Pandas data visualization tutorial to separate file
+[33m329bfd3[m requirements refresh
+[33med44609[m Fix typo in fillna
+[33m014ca71[m ignored env directory
+[33m32d87c3[m update requirements
+[33m8aede58[m Update requirements.txt, mitigate yanked notebook version
+[33m44c0670[m Correct interest form link
+[33mbc34b80[m Update README.md
+[33m08d87ba[m README update
+[33m8b261ea[m Merge branch 'main' of github.com:Casper-Guo/MDST-Tutorial-Redesign into main
+[33m30cd725[m Minor documentation updates
+[33m117e207[m Update README with downloading instructions
+[33m588d8d3[m Merge branch 'main' of github.com:Casper-Guo/MDST-Tutorial-Redesign into main
+[33m63e163d[m Clarify numpy axis
+[33mf00ffa3[m Update zoom link of 9/11 tutorial
+[33m165945a[m Update Git setup instruction
+[33m1a3b973[m Corrected MacOS run cell command
+[33m46539b5[m Change Git setup guide link
+[33mcb259f5[m Updated important dates
+[33m0d1376d[m Update README.md
+[33m036ce07[m Reformat links
+[33m65e003d[m Documentation update
+[33maddb570[m Standarize formatting
+[33m973ffeb[m Checkpoints reformatting / updates
+[33m75e0ff5[m Tutorial 1 good draft (tested)
+[33m63983c8[m tutorial1 rough draft
+[33m40a85f1[m Recover data
+[33mc88c78e[m checkpoint and tutorial 0 good draft
+[33mc4c96d5[m Stats challenge final
+[33mcb266bb[m ML challenge final
+[33m760b6b5[m Tutorial 1 changes, remove classification sections
+[33m5e6e45b[m Challenges draft
+[33m2e1de14[m Tutorial 0 rough draft
+[33mc36978f[m Pandas refresh done
+[33m7b9174b[m Update README, todo: add more details
+[33m25b8af3[m Reorganize files
+[33mf791c13[m Reset repo
+[33m3e45fb5[m Initial
